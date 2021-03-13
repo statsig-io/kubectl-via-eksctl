@@ -1,0 +1,8 @@
+name: "kubectl via eksctl"
+description: "Issues kubectl commands with a kubeconfig exported via eksctl."
+branding:
+  icon: "anchor"
+  color: "blue"
+runs:
+  using: "docker"
+  image: "Dockerfile"
