@@ -18,5 +18,5 @@ Sample usage:
 
 **⚠️NOTE⚠️**
 
-The aws credentials passed in need AuthZ to connect to export a kubeconfig and perform the requested actions in the cluster. To set that up, check [How do I provide access to other IAM users and roles after cluster creation in Amazon EKS?](https://aws.amazon.com/pt/premiumsupport/knowledge-center/amazon-eks-cluster-access/)
+The aws credentials passed in need AuthZ to connect to export a kubeconfig and perform the requested actions in the cluster. To set that up, check [How do I provide access to other IAM users and roles after cluster creation in Amazon EKS?](https://aws.amazon.com/premiumsupport/knowledge-center/amazon-eks-cluster-access/)
 
