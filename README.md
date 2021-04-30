@@ -16,7 +16,7 @@ Sample usage:
     args: rollout restart deployment/willanyoneeverreadthis
 ```
 
-**⚠️NOTE⚠️**
+**⚠️ NOTE ⚠️**
 
 The aws credentials passed in need AuthZ to export a kubeconfig and perform the requested actions in the cluster. To set that up, check [How do I provide access to other IAM users and roles after cluster creation in Amazon EKS?](https://aws.amazon.com/premiumsupport/knowledge-center/amazon-eks-cluster-access/)
 
